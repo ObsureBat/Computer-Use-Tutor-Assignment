@@ -1,0 +1,15 @@
+{
+  "name": "scaler-assignment1",
+  "version": "1.0.0",
+  "description": "A high-fidelity fullstack clone of Google Calendar with interactive UI and backend functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "strip-comments": "^2.0.1"
+  }
+}
